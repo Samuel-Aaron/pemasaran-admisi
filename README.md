@@ -1,2 +1,3 @@
 # pemasaran-admisi
-Website pemasaran admisi untuk magang Samuel Aaron Marbun
+6706213122 - Samuel Aaron
+Aplikasi Web Magang
